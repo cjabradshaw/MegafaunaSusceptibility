@@ -1,9 +1,13 @@
 # Megafauna Susceptibility
 
 AUTHOR: Corey Bradshaw
+
 CONTACT: corey.bradshaw@flinders.edu.au
+
 URL: http://GlobalEcologyFlinders.com
+
 INSTITUTION: Flinders University
+
 RELEASE DATE: August 2020
 
 R code accompanies article currently in review: 
