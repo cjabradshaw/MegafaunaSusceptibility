@@ -3,7 +3,7 @@
 AUTHOR: Corey Bradshaw
 CONTACT: corey.bradshaw@flinders.edu.au
 URL: http://GlobalEcologyFlinders.com
-INSTITUTION: @GlobalEcologyFlinders, Flinders University
+INSTITUTION: Flinders University
 RELEASE DATE: August 2020
 
 R code accompanies article currently in review: 
