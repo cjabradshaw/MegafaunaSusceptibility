@@ -2,8 +2,8 @@
 
 AUTHOR: Corey Bradshaw
 CONTACT: corey.bradshaw@flinders.edu.au
-URL: GlobalEcologyFlinders.com
-INSTITUTION: Flinders University
+URL: http://GlobalEcologyFlinders.com
+INSTITUTION: @GlobalEcologyFlinders, Flinders University
 RELEASE DATE: August 2020
 
 R code accompanies article currently in review: 
