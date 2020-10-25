@@ -11,7 +11,7 @@ INSTITUTION: Flinders University
 RELEASE DATE: August 2020
 
 R code accompanies article currently in review: 
-BRADSHAW, CJA, CN JOHNSON, J LLEWELYN, V WEISBECKER, G STRONA, F SALTRÉ. In review. Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna. (currently available as a pre-print: DOI:10.1101/2020.10.16.342303)
+BRADSHAW, CJA, CN JOHNSON, J LLEWELYN, V WEISBECKER, G STRONA, F SALTRÉ. In review. Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna. (currently available as a pre-print on <i>bioRχiv</i>: DOI:<a href="http://doi.org/10.1101/2020.10.16.342303">10.1101/2020.10.16.342303</a>)
 
 AIM: construct plausible stochastic demographic models for main Sahul megafauna to determine relative demographic susceptibility to environmental change & novel predation (human) sources
 
