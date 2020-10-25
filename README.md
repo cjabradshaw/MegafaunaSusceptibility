@@ -1,19 +1,20 @@
 # Megafauna Susceptibility
 
-AUTHOR: Corey Bradshaw
+<strong>AUTHOR</strong>: Corey Bradshaw
 
-CONTACT: corey.bradshaw@flinders.edu.au
+<strong>CONTACT</strong>: corey.bradshaw@flinders.edu.au
 
-URL: http://GlobalEcologyFlinders.com
+<strong>URL</strong>: http://GlobalEcologyFlinders.com
 
-INSTITUTION: Flinders University
+<strong>INSTITUTION</strong>: Flinders University
 
-RELEASE DATE: August 2020
+<strong>RELEASE DATE</strong>: August 2020
 
 R code accompanies article currently in review: 
+
 BRADSHAW, CJA, CN JOHNSON, J LLEWELYN, V WEISBECKER, G STRONA, F SALTRÉ. In review. Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna. <i>eLife</i> (currently available as a pre-print on <i>bioRχiv</i>: DOI:<a href="http://doi.org/10.1101/2020.10.16.342303">10.1101/2020.10.16.342303</a>)
 
-AIM: construct plausible stochastic demographic models for main Sahul megafauna to determine relative demographic susceptibility to environmental change & novel predation (human) sources
+<strong>AIM</strong>: construct plausible stochastic demographic models for main Sahul megafauna to determine relative demographic susceptibility to environmental change & novel predation (human) sources
 
 Builds models for following groups/genera:
 - VOMBATIFORM HERBIVORES: <i>Diprotodon</i> (†), <i>Palorchestes</i> (†), <i>Zygomaturus</i> (†), <i>Phascolonus</i> (†), <i>Vombatus ursinus</i>
