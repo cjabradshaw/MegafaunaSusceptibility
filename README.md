@@ -35,3 +35,5 @@ Repository includes the following files:
 - '<a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/megsuscept.SCENARIO7.catMinc.R">megsuscept.SCENARIO7.catMinc.R</a>' — runs Scenario 7 (increasing magnitude of catastrophic die-offs)
 
 ** NOTE: For Scenario 7, Scenario 6 must be run first to create input .csv file 'catincQpr.csv' **
+
+- '<a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/GRIWM.jk.sensitivity.R">GRIWM.jk.sensitivity.R</a>' — is the Gaussian-Resampled, Inverse-Weighted McInerny (GRIWM) Signor-Lipps algorithm, including a jack-knife estimator to test senstivity of dates to different assumptions.
