@@ -36,4 +36,4 @@ Repository includes the following files:
 
 ** NOTE: For Scenario 7, Scenario 6 must be run first to create input .csv file 'catincQpr.csv' **
 
-- '<a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/GRIWM.jk.sensitivity.R">GRIWM.jk.sensitivity.R</a>' — is the Gaussian-Resampled, Inverse-Weighted McInerny (GRIWM) Signor-Lipps algorithm, including a jack-knife estimator to test senstivity of dates to different assumptions.
+- '<a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/GRIWM.jk.sensitivity.R">GRIWM.jk.sensitivity.R</a>' — is the Gaussian-Resampled, Inverse-Weighted McInerny (GRIWM) Signor-Lipps algorithm, including a jack-knife estimator to test senstivity of dates to different assumptions. This R code is applied to the various chronologies for the following taxa (.csv files in the 'chronologies' sub-folder): <i>Diprotodon</i>, <i>Palorchestes</i>, <i>Zygomaturus</i>, <i>Phascolonus</i>, <i>Protemnodon</i>, <i>Sthenurus</i>, <i>Simosthenurus</i>, <i>Procoptodon</i>, <i>Metasthenurus</i> (†), <i>Genyornis</i>, <i>Thylacoleo</i>, <i>Megalibgwilia</i>
