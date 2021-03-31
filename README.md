@@ -10,9 +10,9 @@
 
 <strong>RELEASE DATE</strong>: August 2020
 
-R code accompanies article currently in review: 
+R code accompanies article: 
 
-<a href="http://www.flinders.edu.au/people/corey.bradshaw">BRADSHAW, CJA</a>, <a href="https://www.utas.edu.au/profiles/staff/biological-sciences/chris-johnson">CN JOHNSON</a>, <a href="http://www.flinders.edu.au/people/john.llewelyn">J LLEWELYN</a>, <a href="https://researchnow.flinders.edu.au/en/persons/vera-weisbecker">V WEISBECKER</a>, <a href="https://researchportal.helsinki.fi/en/persons/giovanni-strona">G STRONA</a>, <a href="http://www.flinders.edu.au/people/frederik.saltre">F SALTRÉ</a>. In review. Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna. <i>eLife</i> (currently available as a pre-print on <i>bioRχiv</i>: DOI:<a href="http://doi.org/10.1101/2020.10.16.342303">10.1101/2020.10.16.342303</a>)
+<a href="http://www.flinders.edu.au/people/corey.bradshaw">BRADSHAW, CJA</a>, <a href="https://www.utas.edu.au/profiles/staff/biological-sciences/chris-johnson">CN JOHNSON</a>, <a href="http://www.flinders.edu.au/people/john.llewelyn">J LLEWELYN</a>, <a href="https://researchnow.flinders.edu.au/en/persons/vera-weisbecker">V WEISBECKER</a>, <a href="https://researchportal.helsinki.fi/en/persons/giovanni-strona">G STRONA</a>, <a href="http://www.flinders.edu.au/people/frederik.saltre">F SALTRÉ</a>. 2021. Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna. <i>eLife</i> 10: e63870. doi:<a href="http://doi.org/10.7554/eLife.63870">10.7554/eLife.63870</a>)
 
 <strong>AIM</strong>: construct plausible stochastic demographic models for main Sahul megafauna to determine relative demographic susceptibility to environmental change & novel predation (human) sources
 
