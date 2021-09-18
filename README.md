@@ -17,7 +17,7 @@ R code accompanies article:
 <strong>AIM</strong>: construct plausible stochastic demographic models for main Sahul megafauna to determine relative demographic susceptibility to environmental change & novel predation (human) sources
 
 Builds models for following groups/genera:
-- VOMBATIFORM HERBIVORES: <i>Diprotodon</i> (†), <i>Palorchestes</i> (†), <i>Zygomaturus</i> (†), <i>Phascolonus</i> (†), <i>Vombatus ursinus</i>
+- VOMBATIFORM HERBIVORES: <a href="https://australian.museum/learn/australia-over-time/extinct-animals/diprotodon-optatum/"><i>Diprotodon</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/palorchestes-azeal/"><i>Palorchestes</i></a> (†), <a href="http://www.megafauna.com.au/view/megafauna/zygomaturus-trilobus"><i>Zygomaturus</i></a> (†), <a href="http://www.seamonsters.qm.qld.gov.au/sitecore/content/QM%20Micro/Project%20DIG/Home/research/tropical-megafauna/species/phascolonus"><i>Phascolonus</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/common-wombat/"><i>Vombatus ursinus</i></a>
 - MACROPODIFORM HERBIVORES: <i>Protemnodon</i> (†), <i>Osphranter rufus</i>, <i>Sthenurus</i> (†), <i>Simosthenurus</i> (†), <i>Procoptodon</i> (†), <i>Metasthenurus</i> (†), <i>Notamacropus</i>
 - LARGE BIRDS: <a href="https://australian.museum/learn/australia-over-time/extinct-animals/genyornis-newtoni/"><i>Genyornis</i></a> (†), <a href="https://www.birdlife.org.au/bird-profile/emu"><i>Dromaius novaehollandiae</i></a>, <a href="https://www.birdlife.org.au/bird-profile/australian-brush-turkey"><i>Alectura lathami</i></a>
 - CARNIVORES: <i>Sarcophilus</i>, <i>Thylacinus</i> (†), <i>Thylacoleo</i> (†), <i>Dasyurus</i>
