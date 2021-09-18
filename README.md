@@ -4,7 +4,7 @@
 
 <strong>CONTACT</strong>: corey.bradshaw@flinders.edu.au
 
-<strong>URL</strong>: http://GlobalEcologyFlinders.com
+<strong>URL</strong>: <a href="http://GlobalEcologyFlinders.com">GlobalEcologyFlinders.com</a>
 
 <strong>INSTITUTION</strong>: Flinders University
 
@@ -19,7 +19,7 @@ R code accompanies article:
 Builds models for following groups/genera:
 - VOMBATIFORM HERBIVORES: <i>Diprotodon</i> (†), <i>Palorchestes</i> (†), <i>Zygomaturus</i> (†), <i>Phascolonus</i> (†), <i>Vombatus ursinus</i>
 - MACROPODIFORM HERBIVORES: <i>Protemnodon</i> (†), <i>Osphranter rufus</i>, <i>Sthenurus</i> (†), <i>Simosthenurus</i> (†), <i>Procoptodon</i> (†), <i>Metasthenurus</i> (†), <i>Notamacropus</i>
-- LARGE BIRDS: <i>Genyornis</i> (†), <i>Dromaius novaehollandiae</i>, <i>Alectura lathami</i>
+- LARGE BIRDS: <a href="https://australian.museum/learn/australia-over-time/extinct-animals/genyornis-newtoni/"><i>Genyornis</i></a> (†), <a href="https://www.birdlife.org.au/bird-profile/emu"><i>Dromaius novaehollandiae</i></a>, <a href="https://www.birdlife.org.au/bird-profile/australian-brush-turkey"><i>Alectura lathami</i></a>
 - CARNIVORES: <i>Sarcophilus</i>, <i>Thylacinus</i> (†), <i>Thylacoleo</i> (†), <i>Dasyurus</i>
 - MONOTREMES: <i>Megalibgwilia</i> (†), <i>Tachyglossus</i>
 
