@@ -1,4 +1,5 @@
 # Megafauna Susceptibility
+<img align="right" src="thylacine.png" alt="thylacine" width="400" style="margin-top: 20px">
 
 <strong>AUTHOR</strong>: Corey Bradshaw
 
