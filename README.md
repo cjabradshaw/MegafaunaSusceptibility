@@ -24,8 +24,10 @@ Builds models for following groups/genera:
 - CARNIVORES: <a href="https://australian.museum/learn/animals/mammals/tasmanian-devil/"><i>Sarcophilus</i></a>, <a href="https://australian.museum/learn/australia-over-time/extinct-animals/the-thylacine/"><i>Thylacinus</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/thylacoleo-carnifex/"><i>Thylacoleo</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/spotted-tailed-quoll/"><i>Dasyurus</i></a>
 - MONOTREMES: <a href="https://www.artistwd.com/joyzine/australia/articles/megafauna/megalibgwilia_ramsayi.php"><i>Megalibgwilia</i></a> (†), <a href="https://www.bushheritage.org.au/species/echidna"><i>Tachyglossus</i></a>
 
-Repository includes the following files:
+## Demographic parameters for each species summarised below (<a href="https://elifesciences.org/articles/63870#app2table1">Appendix 2, table 1</a> in the <a href="http://doi.org/10.7554/eLife.63870">original article</a>)
+<a href="https://elifesciences.org/articles/63870#app2table1"><img src="Appendix 2 table 1.png" alt="Appendix 2 table 1" style="margin-top: 20px"></a>
 
+## Repository includes the following files
 - <a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/Sahul%20megafauna%20demographic%20susceptibility-base%20models.R"><code>Sahul megafauna demographic susceptibility-base models.R</code></a> — constructs bases models for all perturbation scenarios (must be run first)
 - <a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/matrixOperators.r"><code>matrixOperators.R</code></a> — functions to manipulate matrix models
 - <a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/megsuscept.SCENARIO2.juvsurv.R"><code>megsuscept.SCENARIO2.juvsurv.R</code></a> — runs Scenario 2 (reduction in juvenile survival)
