@@ -1,16 +1,6 @@
 # Megafauna Susceptibility
 <img align="right" src="thylacine.png" alt="thylacine" width="200" style="margin-top: 20px">
 
-<strong>AUTHOR</strong>: Corey Bradshaw
-
-<strong>CONTACT</strong>: corey.bradshaw@flinders.edu.au
-
-<strong>URL</strong>: <a href="http://GlobalEcologyFlinders.com">GlobalEcologyFlinders.com</a>
-
-<strong>INSTITUTION</strong>: Flinders University
-
-<strong>RELEASE DATE</strong>: August 2020
-
 R code accompanies article: 
 
 <a href="http://www.flinders.edu.au/people/corey.bradshaw">BRADSHAW, CJA</a>, <a href="https://www.utas.edu.au/profiles/staff/biological-sciences/chris-johnson">CN JOHNSON</a>, <a href="http://www.flinders.edu.au/people/john.llewelyn">J LLEWELYN</a>, <a href="https://researchnow.flinders.edu.au/en/persons/vera-weisbecker">V WEISBECKER</a>, <a href="https://researchportal.helsinki.fi/en/persons/giovanni-strona">G STRONA</a>, <a href="http://www.flinders.edu.au/people/frederik.saltre">F SALTRÉ</a>. 2021. Relative demographic susceptibility does not explain the extinction chronology of Sahul’s megafauna. <i>eLife</i> 10: e63870. doi:<a href="http://doi.org/10.7554/eLife.63870">10.7554/eLife.63870</a>
@@ -19,6 +9,12 @@ R code accompanies article:
 
 ## Abstract
 The causes of Sahul’s megafauna extinctions remain uncertain, although several interacting factors were likely responsible. To examine the relative support for hypotheses regarding plausible ecological mechanisms underlying these extinctions, we constructed the first stochastic, age-structured models for 13 extinct megafauna species from five functional/taxonomic groups, as well as 8 extant species within these groups for comparison. Perturbing specific demographic rates individually, we tested which species were more demographically susceptible to extinction, and then compared these relative sensitivities to the fossil-derived extinction chronology. Our models show that the macropodiformes were the least demographically susceptible to extinction, followed by carnivores, monotremes, vombatiform herbivores, and large birds. Five of the eight extant species were as or more susceptible than the extinct species. There was no clear relationship between extinction susceptibility and the extinction chronology for any perturbation scenario, while body mass and generation length explained much of the variation in relative risk. Our results reveal that the actual mechanisms leading to the observed extinction chronology were unlikely related to variation in demographic susceptibility per se, but were possibly driven instead by finer-scale variation in climate change and/or human prey choice and relative hunting success.
+
+<br>
+Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1sO0O3wAAAAJ&view_op=list_works">Corey J. A. Bradshaw</a> <br>
+<a href="http://globalecologyflinders.com" target="_blank">Global Ecology</a>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
+August 2020 <br>
+<a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 
 ## Groups/genera modelled
 - VOMBATIFORM HERBIVORES: <a href="https://australian.museum/learn/australia-over-time/extinct-animals/diprotodon-optatum/"><i>Diprotodon</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/palorchestes-azeal/"><i>Palorchestes</i></a> (†), <a href="http://www.megafauna.com.au/view/megafauna/zygomaturus-trilobus"><i>Zygomaturus</i></a> (†), <a href="http://www.seamonsters.qm.qld.gov.au/sitecore/content/QM%20Micro/Project%20DIG/Home/research/tropical-megafauna/species/phascolonus"><i>Phascolonus</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/common-wombat/"><i>Vombatus ursinus</i></a>
