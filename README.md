@@ -17,7 +17,9 @@ R code accompanies article:
 
 <strong>AIM</strong>: construct plausible stochastic demographic models for main Sahul megafauna to determine relative demographic susceptibility to environmental change & novel predation (human) sources
 
-Builds models for following groups/genera:
+## Abstract
+
+## Groups/genera modelled
 - VOMBATIFORM HERBIVORES: <a href="https://australian.museum/learn/australia-over-time/extinct-animals/diprotodon-optatum/"><i>Diprotodon</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/palorchestes-azeal/"><i>Palorchestes</i></a> (†), <a href="http://www.megafauna.com.au/view/megafauna/zygomaturus-trilobus"><i>Zygomaturus</i></a> (†), <a href="http://www.seamonsters.qm.qld.gov.au/sitecore/content/QM%20Micro/Project%20DIG/Home/research/tropical-megafauna/species/phascolonus"><i>Phascolonus</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/common-wombat/"><i>Vombatus ursinus</i></a>
 - MACROPODIFORM HERBIVORES: <a href="http://www.seamonsters.qm.qld.gov.au/sitecore/content/QM%20Micro/Project%20DIG/Home/research/tropical-megafauna/species/protemnodon"><i>Protemnodon</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/red-kangaroo/"><i>Osphranter rufus</i></a>, <a href="https://en.wikipedia.org/wiki/Sthenurus"><i>Sthenurus</i></a> (†), <a href="http://www.megafauna.com.au/view/megafauna/simosthenurus-occidentalis"><i>Simosthenurus</i></a> (†), <a href="https://australian.museum/learn/australia-over-time/extinct-animals/procoptodon-goliah/"><i>Procoptodon</i></a> (†), <a href="https://en.wikipedia.org/wiki/Sthenurinae"><i>Metasthenurus</i></a> (†), <a href="https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:4bd05bcb-614d-40b0-b81f-75ac14ea4afd"><i>Notamacropus</i></a>
 - LARGE BIRDS: <a href="https://australian.museum/learn/australia-over-time/extinct-animals/genyornis-newtoni/"><i>Genyornis</i></a> (†), <a href="https://www.birdlife.org.au/bird-profile/emu"><i>Dromaius novaehollandiae</i></a>, <a href="https://www.birdlife.org.au/bird-profile/australian-brush-turkey"><i>Alectura lathami</i></a>
@@ -39,4 +41,5 @@ Builds models for following groups/genera:
 
 ** NOTE: For Scenario 7, Scenario 6 must be run first to create input .csv file 'catincQpr.csv' **
 
+## Sensitivity analysis
 - <a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/GRIWM.jk.sensitivity.R"><code>GRIWM.jk.sensitivity.R</code></a> — is the Gaussian-Resampled, Inverse-Weighted McInerny (GRIWM) Signor-Lipps algorithm, including a jack-knife estimator to test senstivity of dates to different assumptions. This R code is applied to the various chronologies for the following taxa (.csv files in the '<a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/tree/master/chronologies">chronologies</a>' sub-folder): <i>Diprotodon</i>, <i>Palorchestes</i>, <i>Zygomaturus</i>, <i>Phascolonus</i>, <i>Protemnodon</i>, <i>Sthenurus</i>, <i>Simosthenurus</i>, <i>Procoptodon</i>, <i>Metasthenurus</i>, <i>Genyornis</i>, <i>Thylacoleo</i>, <i>Megalibgwilia</i>
