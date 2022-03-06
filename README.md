@@ -18,7 +18,6 @@ August 2020 <br>
 <a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 
 ## Groups/genera modelled
-<img align="right" src="www/Palorchestes.png" alt="Palorchestes" width="300" style="margin-top: 20px">
 - <strong>VOMBATIFORM HERBIVORES</strong>: <a href="https://australian.museum/learn/australia-over-time/extinct-animals/diprotodon-optatum/"><i>Diprotodon</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/palorchestes-azeal/"><i>Palorchestes</i></a> (†), <a href="http://www.megafauna.com.au/view/megafauna/zygomaturus-trilobus"><i>Zygomaturus</i></a> (†), <a href="http://www.seamonsters.qm.qld.gov.au/sitecore/content/QM%20Micro/Project%20DIG/Home/research/tropical-megafauna/species/phascolonus"><i>Phascolonus</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/common-wombat/"><i>Vombatus ursinus</i></a><br>
 - <strong>MACROPODIFORM HERBIVORES</strong>: <a href="http://www.seamonsters.qm.qld.gov.au/sitecore/content/QM%20Micro/Project%20DIG/Home/research/tropical-megafauna/species/protemnodon"><i>Protemnodon</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/red-kangaroo/"><i>Osphranter rufus</i></a>, <a href="https://en.wikipedia.org/wiki/Sthenurus"><i>Sthenurus</i></a> (†), <a href="http://www.megafauna.com.au/view/megafauna/simosthenurus-occidentalis"><i>Simosthenurus</i></a> (†), <a href="https://australian.museum/learn/australia-over-time/extinct-animals/procoptodon-goliah/"><i>Procoptodon</i></a> (†), <a href="https://en.wikipedia.org/wiki/Sthenurinae"><i>Metasthenurus</i></a> (†), <a href="https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:4bd05bcb-614d-40b0-b81f-75ac14ea4afd"><i>Notamacropus</i></a><br>
 - <strong>LARGE BIRDS</strong>: <a href="https://australian.museum/learn/australia-over-time/extinct-animals/genyornis-newtoni/"><i>Genyornis</i></a> (†), <a href="https://www.birdlife.org.au/bird-profile/emu"><i>Dromaius novaehollandiae</i></a>, <a href="https://www.birdlife.org.au/bird-profile/australian-brush-turkey"><i>Alectura lathami</i></a><br>
@@ -26,6 +25,8 @@ August 2020 <br>
 - <strong>MONOTREMES</strong>: <a href="https://www.artistwd.com/joyzine/australia/articles/megafauna/megalibgwilia_ramsayi.php"><i>Megalibgwilia</i></a> (†), <a href="https://www.bushheritage.org.au/species/echidna"><i>Tachyglossus</i></a>
 
 ## Demographic parameters for each species summarised below (<a href="https://elifesciences.org/articles/63870#app2table1">Appendix 2, table 1</a> in the <a href="http://doi.org/10.7554/eLife.63870">original article</a>)
+<img align="right" src="www/Palorchestes.png" alt="Palorchestes" width="300" style="margin-top: 20px">
+
 <a href="https://elifesciences.org/articles/63870#app2table1"><img src="Appendix 2 table 1.png" alt="Appendix 2 table 1" style="margin-top: 20px"></a>
 
 ## Repository includes the following files
