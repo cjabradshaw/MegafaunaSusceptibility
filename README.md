@@ -1,5 +1,5 @@
 # Megafauna Susceptibility
-<img align="right" src="thylacine.png" alt="thylacine" width="200" style="margin-top: 20px">
+<img align="right" src="www/thylacine.png" alt="thylacine" width="300" style="margin-top: 20px">
 
 R code accompanies article: 
 
@@ -8,6 +8,7 @@ R code accompanies article:
 <strong>AIM</strong>: construct plausible stochastic demographic models for main Sahul megafauna to determine relative demographic susceptibility to environmental change & novel predation (human) sources
 
 ## Abstract
+<img align="right" src="www/Diprotodon 2.png" alt="Diprotodon" width="300" style="margin-top: 20px">
 The causes of Sahul’s megafauna extinctions remain uncertain, although several interacting factors were likely responsible. To examine the relative support for hypotheses regarding plausible ecological mechanisms underlying these extinctions, we constructed the first stochastic, age-structured models for 13 extinct megafauna species from five functional/taxonomic groups, as well as 8 extant species within these groups for comparison. Perturbing specific demographic rates individually, we tested which species were more demographically susceptible to extinction, and then compared these relative sensitivities to the fossil-derived extinction chronology. Our models show that the macropodiformes were the least demographically susceptible to extinction, followed by carnivores, monotremes, vombatiform herbivores, and large birds. Five of the eight extant species were as or more susceptible than the extinct species. There was no clear relationship between extinction susceptibility and the extinction chronology for any perturbation scenario, while body mass and generation length explained much of the variation in relative risk. Our results reveal that the actual mechanisms leading to the observed extinction chronology were unlikely related to variation in demographic susceptibility per se, but were possibly driven instead by finer-scale variation in climate change and/or human prey choice and relative hunting success.
 
 <br>
@@ -17,13 +18,15 @@ August 2020 <br>
 <a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 
 ## Groups/genera modelled
+<img align="right" src="www/Palorchestes.png" alt="Palorchestes" width="300" style="margin-top: 20px">
 - VOMBATIFORM HERBIVORES: <a href="https://australian.museum/learn/australia-over-time/extinct-animals/diprotodon-optatum/"><i>Diprotodon</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/palorchestes-azeal/"><i>Palorchestes</i></a> (†), <a href="http://www.megafauna.com.au/view/megafauna/zygomaturus-trilobus"><i>Zygomaturus</i></a> (†), <a href="http://www.seamonsters.qm.qld.gov.au/sitecore/content/QM%20Micro/Project%20DIG/Home/research/tropical-megafauna/species/phascolonus"><i>Phascolonus</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/common-wombat/"><i>Vombatus ursinus</i></a>
 - MACROPODIFORM HERBIVORES: <a href="http://www.seamonsters.qm.qld.gov.au/sitecore/content/QM%20Micro/Project%20DIG/Home/research/tropical-megafauna/species/protemnodon"><i>Protemnodon</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/red-kangaroo/"><i>Osphranter rufus</i></a>, <a href="https://en.wikipedia.org/wiki/Sthenurus"><i>Sthenurus</i></a> (†), <a href="http://www.megafauna.com.au/view/megafauna/simosthenurus-occidentalis"><i>Simosthenurus</i></a> (†), <a href="https://australian.museum/learn/australia-over-time/extinct-animals/procoptodon-goliah/"><i>Procoptodon</i></a> (†), <a href="https://en.wikipedia.org/wiki/Sthenurinae"><i>Metasthenurus</i></a> (†), <a href="https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:4bd05bcb-614d-40b0-b81f-75ac14ea4afd"><i>Notamacropus</i></a>
 - LARGE BIRDS: <a href="https://australian.museum/learn/australia-over-time/extinct-animals/genyornis-newtoni/"><i>Genyornis</i></a> (†), <a href="https://www.birdlife.org.au/bird-profile/emu"><i>Dromaius novaehollandiae</i></a>, <a href="https://www.birdlife.org.au/bird-profile/australian-brush-turkey"><i>Alectura lathami</i></a>
 - CARNIVORES: <a href="https://australian.museum/learn/animals/mammals/tasmanian-devil/"><i>Sarcophilus</i></a>, <a href="https://australian.museum/learn/australia-over-time/extinct-animals/the-thylacine/"><i>Thylacinus</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/thylacoleo-carnifex/"><i>Thylacoleo</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/spotted-tailed-quoll/"><i>Dasyurus</i></a>
 - MONOTREMES: <a href="https://www.artistwd.com/joyzine/australia/articles/megafauna/megalibgwilia_ramsayi.php"><i>Megalibgwilia</i></a> (†), <a href="https://www.bushheritage.org.au/species/echidna"><i>Tachyglossus</i></a>
 
-## Demographic parameters for each species summarised below (<a href="https://elifesciences.org/articles/63870#app2table1">Appendix 2, table 1</a> in the <a href="http://doi.org/10.7554/eLife.63870">original article</a>)
+## Demographic parameters for each species summarised below (<a href="https://elifesciences.org/articles/63870#app2table1">Appendix 2, table 1</a> in the <a <img align="right" src="www/Palorchestes.png" alt="Palorchestes" width="300" style="margin-top: 20px">
+href="http://doi.org/10.7554/eLife.63870">original article</a>)
 <a href="https://elifesciences.org/articles/63870#app2table1"><img src="Appendix 2 table 1.png" alt="Appendix 2 table 1" style="margin-top: 20px"></a>
 
 ## Repository includes the following files
