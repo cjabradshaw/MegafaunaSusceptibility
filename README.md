@@ -8,9 +8,10 @@ R code accompanies article:
 <strong>AIM</strong>: construct plausible stochastic demographic models for main Sahul megafauna to determine relative demographic susceptibility to environmental change & novel predation (human) sources
 
 ## Abstract
-<img align="right" src="www/Diprotodon 2.png" alt="Diprotodon" width="300" style="margin-top: 20px">
 The causes of Sahul’s megafauna extinctions remain uncertain, although several interacting factors were likely responsible. To examine the relative support for hypotheses regarding plausible ecological mechanisms underlying these extinctions, we constructed the first stochastic, age-structured models for 13 extinct megafauna species from five functional/taxonomic groups, as well as 8 extant species within these groups for comparison. Perturbing specific demographic rates individually, we tested which species were more demographically susceptible to extinction, and then compared these relative sensitivities to the fossil-derived extinction chronology. Our models show that the macropodiformes were the least demographically susceptible to extinction, followed by carnivores, monotremes, vombatiform herbivores, and large birds. Five of the eight extant species were as or more susceptible than the extinct species. There was no clear relationship between extinction susceptibility and the extinction chronology for any perturbation scenario, while body mass and generation length explained much of the variation in relative risk. Our results reveal that the actual mechanisms leading to the observed extinction chronology were unlikely related to variation in demographic susceptibility per se, but were possibly driven instead by finer-scale variation in climate change and/or human prey choice and relative hunting success.
+<img align="right" src="www/Diprotodon 2.png" alt="Diprotodon" width="300" style="margin-top: 20px">
 
+<br>
 <br>
 Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1sO0O3wAAAAJ&view_op=list_works">Corey J. A. Bradshaw</a> <br>
 <a href="http://globalecologyflinders.com" target="_blank">Global Ecology</a>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
@@ -25,8 +26,7 @@ August 2020 <br>
 - CARNIVORES: <a href="https://australian.museum/learn/animals/mammals/tasmanian-devil/"><i>Sarcophilus</i></a>, <a href="https://australian.museum/learn/australia-over-time/extinct-animals/the-thylacine/"><i>Thylacinus</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/thylacoleo-carnifex/"><i>Thylacoleo</i></a> (†), <a href="https://australian.museum/learn/animals/mammals/spotted-tailed-quoll/"><i>Dasyurus</i></a>
 - MONOTREMES: <a href="https://www.artistwd.com/joyzine/australia/articles/megafauna/megalibgwilia_ramsayi.php"><i>Megalibgwilia</i></a> (†), <a href="https://www.bushheritage.org.au/species/echidna"><i>Tachyglossus</i></a>
 
-## Demographic parameters for each species summarised below (<a href="https://elifesciences.org/articles/63870#app2table1">Appendix 2, table 1</a> in the <a <img align="right" src="www/Palorchestes.png" alt="Palorchestes" width="300" style="margin-top: 20px">
-href="http://doi.org/10.7554/eLife.63870">original article</a>)
+## Demographic parameters for each species summarised below (<a href="https://elifesciences.org/articles/63870#app2table1">Appendix 2, table 1</a> in the <a href="http://doi.org/10.7554/eLife.63870">original article</a>)
 <a href="https://elifesciences.org/articles/63870#app2table1"><img src="Appendix 2 table 1.png" alt="Appendix 2 table 1" style="margin-top: 20px"></a>
 
 ## Repository includes the following files
@@ -42,4 +42,5 @@ href="http://doi.org/10.7554/eLife.63870">original article</a>)
 ** NOTE: For Scenario 7, Scenario 6 must be run first to create input .csv file 'catincQpr.csv' **
 
 ## Sensitivity analysis
+<img align="right" src="www/Simosthenurus occidentalis.png" alt="Simosthenurus" width="300" style="margin-top: 20px">
 - <a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/GRIWM.jk.sensitivity.R"><code>GRIWM.jk.sensitivity.R</code></a> — is the Gaussian-Resampled, Inverse-Weighted McInerny (GRIWM) Signor-Lipps algorithm, including a jack-knife estimator to test senstivity of dates to different assumptions. This R code is applied to the various chronologies for the following taxa (.csv files in the '<a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/tree/master/chronologies">chronologies</a>' sub-folder): <i>Diprotodon</i>, <i>Palorchestes</i>, <i>Zygomaturus</i>, <i>Phascolonus</i>, <i>Protemnodon</i>, <i>Sthenurus</i>, <i>Simosthenurus</i>, <i>Procoptodon</i>, <i>Metasthenurus</i>, <i>Genyornis</i>, <i>Thylacoleo</i>, <i>Megalibgwilia</i>
