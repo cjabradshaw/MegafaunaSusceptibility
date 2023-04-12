@@ -1,5 +1,5 @@
 # Megafauna Susceptibility
-<img align="right" src="www/thylacine.png" alt="thylacine" width="300" style="margin-top: 20px">
+<img align="right" src="www/thylacine.png" alt="thylacine" width="200" style="margin-top: 20px">
 
 R code accompanies article: 
 
@@ -10,7 +10,7 @@ R code accompanies article:
 ## Abstract
 <img align="left" src="www/Thylacoleo carnifex.png" alt="Thylacoleo" width="200" style="margin-top: 20px">
 The causes of Sahul’s megafauna extinctions remain uncertain, although several interacting factors were likely responsible. To examine the relative support for hypotheses regarding plausible ecological mechanisms underlying these extinctions, we constructed the first stochastic, age-structured models for 13 extinct megafauna species from five functional/taxonomic groups, as well as 8 extant species within these groups for comparison. Perturbing specific demographic rates individually, we tested which species were more demographically susceptible to extinction, and then compared these relative sensitivities to the fossil-derived extinction chronology. Our models show that the macropodiformes were the least demographically susceptible to extinction, followed by carnivores, monotremes, vombatiform herbivores, and large birds. Five of the eight extant species were as or more susceptible than the extinct species. There was no clear relationship between extinction susceptibility and the extinction chronology for any perturbation scenario, while body mass and generation length explained much of the variation in relative risk. Our results reveal that the actual mechanisms leading to the observed extinction chronology were unlikely related to variation in demographic susceptibility per se, but were possibly driven instead by finer-scale variation in climate change and/or human prey choice and relative hunting success.
-<img align="right" src="www/Diprotodon 2.png" alt="Diprotodon" width="300" style="margin-top: 20px">
+<img align="right" src="www/Diprotodon 2.png" alt="Diprotodon" width="200" style="margin-top: 20px">
 
 <br>
 Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1sO0O3wAAAAJ&view_op=list_works">Corey J. A. Bradshaw</a> <br>
